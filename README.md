@@ -1,1 +1,2 @@
 # Diabetes-prediction
+This project predicts the likelihood of diabetes in individuals using various health metrics such as age, BMI, glucose levels, etc. We utilize different machine learning algorithms to classify whether a person is likely to develop diabetes based on these features. The project includes Exploratory Data Analysis (EDA) and multiple classification techniques for accuracy evaluation
